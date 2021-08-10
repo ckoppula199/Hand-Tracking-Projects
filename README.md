@@ -8,4 +8,9 @@ what sign you are holding and will choose the counter sign to win a game of rock
 
 ### Gesture Volume Control  
 A script that allows you to control the volume on Windows machines by using your index finger and thumb. When  
-they touch the volume will be muted. As they get further apart the volume will increase.
+they touch the volume will be muted. As they get further apart the volume will increase.  
+  
+### Virtual Painter  
+A script that allows the user to paint on their screen using their hands. 2 fingers are used to select a colour  
+and stop drawing. 1 finger is used to draw. Works by overlaying a canvas layer on which the drawings are made  
+on top of the webcam feed.
